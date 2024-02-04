@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 265f5285323335944a3b90ab96a46dd1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyAgent: {instanceID: 0}
+  - player: {instanceID: 0}
+  - attackPoint: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  - enemyAnimator: {instanceID: 0}
+  - deadEffect: {fileID: 2238828544856248219, guid: fe6251d78fbd43f4d8bdf5596b1df046, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
